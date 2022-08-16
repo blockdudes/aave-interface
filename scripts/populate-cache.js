@@ -60874,7 +60874,7 @@ var networkConfigs = {
   },
   [import_contract_helpers3.ChainId.mainnet]: {
     name: "Ethereum",
-    privateJsonRPCUrl: "https://eth-mainnet.gateway.pokt.network/v1/lb/62b3314e123e6f00397f19ca",
+    privateJsonRPCUrl: "https://eth-mainnet.gateway.pokt.network/v1/lb/62f89f9b09459a003923366b",
     publicJsonRPCUrl: ["https://cloudflare-eth.com/v1/mainnet"],
     publicJsonRPCWSUrl: "wss://eth-mainnet.alchemyapi.io/v2/demo",
     baseUniswapAdapter: "0xc3efa200a60883a96ffe3d5b492b121d6e9a1f3f",
@@ -60887,7 +60887,7 @@ var networkConfigs = {
   },
   [import_contract_helpers3.ChainId.polygon]: {
     name: "Polygon POS",
-    privateJsonRPCUrl: "https://poly-mainnet.gateway.pokt.network/v1/lb/62b3314e123e6f00397f19ca",
+    privateJsonRPCUrl: "https://poly-mainnet.gateway.pokt.network/v1/lb/62f89f9b09459a003923366b",
     publicJsonRPCUrl: [],
     baseAssetSymbol: "MATIC",
     wrappedBaseAssetSymbol: "WMATIC",
@@ -60931,7 +60931,7 @@ var networkConfigs = {
   },
   [import_contract_helpers3.ChainId.avalanche]: {
     name: "Avalanche",
-    privateJsonRPCUrl: "https://avax-mainnet.gateway.pokt.network/v1/lb/62b3314e123e6f00397f19ca/ext/bc/C/rpc",
+    privateJsonRPCUrl: "https://avax-mainnet.gateway.pokt.network/v1/lb/62f89f9b09459a003923366b/ext/bc/C/rpc",
     publicJsonRPCUrl: ["https://api.avax.network/ext/bc/C/rpc"],
     publicJsonRPCWSUrl: "wss://api.avax.network/ext/bc/C/rpc",
     baseUniswapAdapter: "0x0",
@@ -60999,7 +60999,7 @@ var networkConfigs = {
   },
   [import_contract_helpers3.ChainId.harmony]: {
     name: "Harmony",
-    privateJsonRPCUrl: "https://harmony-0.gateway.pokt.network/v1/lb/62b3314e123e6f00397f19ca",
+    privateJsonRPCUrl: "https://harmony-0.gateway.pokt.network/v1/lb/62f89f9b09459a003923366b",
     publicJsonRPCUrl: ["https://api.s0.t.hmny.io", "https://api.harmony.one"],
     publicJsonRPCWSUrl: "wss://ws.s0.t.hmny.io",
     baseUniswapAdapter: "0x0",
@@ -61033,7 +61033,7 @@ var networkConfigs = {
   },
   [import_contract_helpers3.ChainId.optimism]: {
     name: "Optimism",
-    privateJsonRPCUrl: "https://optimism-mainnet.gateway.pokt.network/v1/lb/62b3314e123e6f00397f19ca",
+    privateJsonRPCUrl: "https://optimism-mainnet.gateway.pokt.network/v1/lb/62f89f9b09459a003923366b",
     publicJsonRPCUrl: ["https://mainnet.optimism.io"],
     publicJsonRPCWSUrl: "wss://ws-mainnet.optimism.io",
     baseUniswapAdapter: "0x0",
@@ -61079,7 +61079,7 @@ var networkConfigs = {
   },
   [import_contract_helpers3.ChainId.fantom]: {
     name: "Fantom",
-    privateJsonRPCUrl: "https://fantom-mainnet.gateway.pokt.network/v1/lb/62b3314e123e6f00397f19ca",
+    privateJsonRPCUrl: "https://fantom-mainnet.gateway.pokt.network/v1/lb/62f89f9b09459a003923366b",
     publicJsonRPCUrl: [],
     baseUniswapAdapter: "0x0",
     baseAssetSymbol: "FTM",
